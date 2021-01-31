@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    background-color: rgba(104, 104, 230, 0.904);
+}
+
+#container{  
+    padding: 15px; 
+    text-align: center;
+    background-color: white;
+}
+
+table tr th{
+    width: 100px;
+    border: crimson 1px solid;
+    color: white;
+    background-color: crimson;
+}
+
+td{
+    border: crimson 1px solid;
+    color: crimson;
+    background-color: white;
+}
